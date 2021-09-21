@@ -1,2 +1,2 @@
-# hhu_health_report_uniapp
-河海打卡助手uniapp版
+# 河海打卡助手uniapp版
+可使用手机自动打卡
