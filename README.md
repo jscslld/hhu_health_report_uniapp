@@ -1,3 +1,6 @@
+## 停更提醒
+由于学校更换打卡平台，该项目不再更新，新的打卡脚本请参考https://github.com/jscslld/hhu_health_report
+
 # 河海打卡助手uniapp版
 手机App端一键打卡
 
